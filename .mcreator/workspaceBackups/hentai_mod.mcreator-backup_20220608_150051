@@ -1,0 +1,86 @@
+{
+  "mod_elements": [
+    {
+      "name": "HentaiCode",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hentai_code"
+    },
+    {
+      "name": "HentaiLeather",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hentai_leather"
+    },
+    {
+      "name": "HentaiPaper",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hentai_paper"
+    },
+    {
+      "name": "HentaiBook",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hentai_book"
+    },
+    {
+      "name": "HentaiComicCreation",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hentai_comic_creation"
+    },
+    {
+      "name": "HentaiSupplier",
+      "type": "livingentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hentai_supplier"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.hentai_mod.hentai_supplier_spawn_egg": "Hentai Supplier Spawn Egg",
+      "item.hentai_mod.hentai_leather": "Hentai Leather",
+      "entity.hentai_mod.hentai_supplier": "Hentai Supplier",
+      "item.hentai_mod.hentai_paper": "Hentai Paper",
+      "item.hentai_mod.hentai_book": "Hentai Book",
+      "item.hentai_mod.hentai_code": "Hentai Code"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hentai_mod",
+    "modName": "hentai_mod",
+    "version": "1.0.0",
+    "author": "rohit, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.hentaimod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

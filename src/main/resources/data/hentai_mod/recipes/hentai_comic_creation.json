@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hentai_mod:hentai_leather"
+    },
+    {
+      "item": "hentai_mod:hentai_code"
+    },
+    {
+      "item": "hentai_mod:hentai_paper"
+    },
+    {
+      "item": "hentai_mod:hentai_paper"
+    },
+    {
+      "item": "hentai_mod:hentai_paper"
+    }
+  ],
+  "result": {
+    "item": "hentai_mod:hentai_book",
+    "count": 1
+  }
+}

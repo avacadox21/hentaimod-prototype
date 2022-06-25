@@ -1,0 +1,19 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-06-08 16:07:29 +0530",
+      "minecraft:mountains": "2022-06-08 16:05:47 +0530",
+      "minecraft:taiga": "2022-06-08 16:05:37 +0530",
+      "minecraft:river": "2022-06-08 16:05:46 +0530",
+      "minecraft:plains": "2022-06-08 16:07:00 +0530"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-06-08 16:07:56 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
